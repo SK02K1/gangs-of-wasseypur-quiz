@@ -12,6 +12,13 @@
 - **LevelThree**: *You have to give atleast 2 right answer out of 3 questions to complete this game*
 - Also if you beat the top scores you name will be added to **TOP PLAYERS LIST**
 
+## Some pictures of the game
+
+![quiz-pic](images/img01.png)
+![quiz-pic](images/img03.png)
+![quiz-pic](images/img04.png)
+![quiz-pic](images/img02.png)
+
 ## JavaScript concept used
 
 - input from user (**using readline-sync**)
