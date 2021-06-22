@@ -186,8 +186,10 @@ const showTopPlayers = () => {
 const checkBeatenScore = currentPlayerFinalScore => {
   let flag = 0;
   for(let i=0; i<topScorerList.length; i++){
-    if(currentPlayerFinalScore > topScorerList[i].score);
-    flag+=1;
+    if(currentPlayerFinalScore > topScorerList[i].score){
+      flag+=1;
+    }
+    
   }
   if(flag !== 0){
     console.log(`\n`);
